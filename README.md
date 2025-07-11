@@ -3,5 +3,5 @@ This Python program checks whether a number entered by the user is a prime numbe
 ## How to Run
 Run prime_checker.py in any Python IDE or terminal.
 ## Example Output
-Enter a number: 7  
-7 is a prime number.
+Enter a number: 7
+7 is a prime number
